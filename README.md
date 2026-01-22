@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓 Student at SDMCET, Dharwad <br>
 💻 Learning C & C++  
-🎨 Interested in editing and design  
-🚀 Exploring software development
+🎨 Interested in Editing and Design  
+🚀 Exploring Software Development
 
 
 ## 🌐 Socials:
