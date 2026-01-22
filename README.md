@@ -1,5 +1,8 @@
 # 💫 About Me:
-Student !<br>SDMCET Dharwad 580002, Karnataka
+🎓 Student at SDMCET, Dharwad 
+💻 Learning C & C++  
+🎨 Interested in editing and design  
+🚀 Exploring software development
 
 
 ## 🌐 Socials:
