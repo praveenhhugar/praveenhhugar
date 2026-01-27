@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=praveenhhugar&label=Profile%20views&color=0e75b6&style=flat)
+
 # 💫 About Me:
 🎓 Student at SDMCET Dharwad <br>
 💻 Learning C & C++  
