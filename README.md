@@ -4,7 +4,7 @@
 🎓 Student at SDMCET Dharwad <br>
 💻 Learning C & C++  
 🎨 Interested in Editing and Design  
-🚀 Exploring Software Development
+🚀 Exploring Software Development.
 
 
 ## 🌐 Socials:
