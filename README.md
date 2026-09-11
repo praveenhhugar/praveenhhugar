@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=praveenhhugar&label=Profile%20views&color=0e75b6&style=flat)
 
 # 💫 About Me:
-🎓 CSE Student at SDMCET Dharwad<br>🚀 Building AI-Powered and Full-Stack Projects<br>🌱 Learning C++, OOP & Software Development<br>🎨 Passionate about UI/UX Design and Video Editing<br>💡 Exploring AI Tools and Modern Technologies
+🎓 CSE Student at SDMCET Dharwad<br>🚀 Building AI-Powered and Full-Stack Projects<br>🌱 Learning C++, DSA & Development<br>🎨 Passionate about UI/UX Design and Video Editing<br>💡 Exploring AI Tools and Modern Technologies
 
 
 ## 🌐 Socials:
